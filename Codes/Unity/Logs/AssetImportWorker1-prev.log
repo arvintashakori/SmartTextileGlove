@@ -1,0 +1,330 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.10f1 (ee872746220e) revision 15632167'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Enterprise' Language: 'en' Physical Memory: 65481 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Arvin/Documents/Texavie Github/TEX/GloveUnityDemo
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+52763
+Successfully changed project path to: C:/Users/Arvin/Documents/Texavie Github/TEX/GloveUnityDemo
+C:/Users/Arvin/Documents/Texavie Github/TEX/GloveUnityDemo
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 46.51 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.10f1 (ee872746220e)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Arvin/Documents/Texavie Github/TEX/GloveUnityDemo/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 Ti (ID=0x1e07)
+    Vendor:   NVIDIA
+    VRAM:     11049 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56796
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.093139 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.56 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.500 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3500ms)
+		BeginReloadAssembly (2515ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (665ms)
+			LoadAssemblies (2513ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (372ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (220ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (123ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007615 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Completed reload, in  1.863 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1863ms)
+		BeginReloadAssembly (97ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (1682ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (493ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (1040ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (260ms)
+				ProcessInitializeOnLoadMethodAttributes (694ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2304 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 61 unused Assets / (57.3 KB). Loaded Objects now: 2739.
+Memory consumption went from 90.7 MB to 90.6 MB.
+Total: 4.911800 ms (FindLiveObjects: 0.203800 ms CreateObjectMapping: 0.115500 ms MarkObjects: 4.515200 ms  DeleteObjects: 0.076600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1403.672548 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(bd3057c263848764b924267e3dc1a11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(bd3057c263848764b924267e3dc1a11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cedb459d1c376450080724a184ae0498') in 0.098873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2203.661464 seconds.
+  path: Assets/HandyHandPack/Textures/BasicHand_Light_Albedo.png
+  artifactKey: Guid(6beda29ad95d53645a9e1fc4bef14ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/BasicHand_Light_Albedo.png using Guid(6beda29ad95d53645a9e1fc4bef14ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89aa56985421c5e8fc47e20c5900b194') in 0.207181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/HandyHandPack/Textures/CombatGlove_Black_Albedo.png
+  artifactKey: Guid(1c905db8f0c7483468f0cae3cc261bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/CombatGlove_Black_Albedo.png using Guid(1c905db8f0c7483468f0cae3cc261bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '069e856a49667a129e80e53ed80f16d2') in 0.061222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HandyHandPack/Textures/LowPolyHand_Occlusion.png
+  artifactKey: Guid(a8119066e70dc0448b81276499b80ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/LowPolyHand_Occlusion.png using Guid(a8119066e70dc0448b81276499b80ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b15573810b0700709c19ec70f03f5bf') in 0.120750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/HandyHandPack/Textures/CombatGlove_Normal.png
+  artifactKey: Guid(9c8ecce658772244d8fd882acd7c3d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/CombatGlove_Normal.png using Guid(9c8ecce658772244d8fd882acd7c3d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ded5cfcf8622c5ac9826bbdbdbb2e6') in 0.379558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HandyHandPack/Textures/BoxingGlove_Shiny_MetallicSmoothness.tga
+  artifactKey: Guid(3f543cae95e6e2348a09ce845eb1e71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/BoxingGlove_Shiny_MetallicSmoothness.tga using Guid(3f543cae95e6e2348a09ce845eb1e71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '225de42b3cf25b3ae6e105d383c52466') in 0.178641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HandyHandPack/Textures/BasicHand_Occlusion.png
+  artifactKey: Guid(44bfaa91f4b452c47a3d375ade9572ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/BasicHand_Occlusion.png using Guid(44bfaa91f4b452c47a3d375ade9572ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0325f36ae5b4c510714b24efdc6f7385') in 0.175530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/HandyHandPack/Textures/WinterGloves_Normal.png
+  artifactKey: Guid(999f89753820c844eb51ff3b8a09f8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/WinterGloves_Normal.png using Guid(999f89753820c844eb51ff3b8a09f8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7d9c1fc1a5cfad10707b8ca3d5b0d1') in 0.008999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/HandyHandPack/Textures/CombatGlove_White_Albedo.png
+  artifactKey: Guid(4e4a3396aec495a4eb014a860c71c352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/CombatGlove_White_Albedo.png using Guid(4e4a3396aec495a4eb014a860c71c352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea3edeac2a21366c20b9e529d474ddf') in 0.084891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/HandyHandPack/Textures/RobotHand_Normal.tga
+  artifactKey: Guid(319aad2b0d1ebdd479000dee087dcfae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/RobotHand_Normal.tga using Guid(319aad2b0d1ebdd479000dee087dcfae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c453892193e7700c904f4068855a87') in 0.149605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/HandyHandPack/Textures/RobotHand_Albedo.tga
+  artifactKey: Guid(5afc0870bf63d414789fe469356ed86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/RobotHand_Albedo.tga using Guid(5afc0870bf63d414789fe469356ed86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e9ad2bc1c74a4f0914b2310bb53dcd5') in 0.114947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/HandyHandPack/Textures/BasicHand_Light_MetallicSmoothness.png
+  artifactKey: Guid(aa894e3580fdd334a885997d81b382b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/BasicHand_Light_MetallicSmoothness.png using Guid(aa894e3580fdd334a885997d81b382b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc020d863cc1f4825ff064a4beafc151') in 0.097317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/HandyHandPack/Textures/GardenGlove_Blue_Albedo.png
+  artifactKey: Guid(f4773e04540188a45a437c029c1a296b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/GardenGlove_Blue_Albedo.png using Guid(f4773e04540188a45a437c029c1a296b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '650075ff2b0e546bc2e8c057dcd15197') in 0.124021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/HandyHandPack/Textures/Zombie_Normal.png
+  artifactKey: Guid(39fc90152b538864297d5a1a369feee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/Zombie_Normal.png using Guid(39fc90152b538864297d5a1a369feee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f961a59e9ce8c99692272e63f96b414e') in 0.194701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/HandyHandPack/Textures/LowPolyHand_MetallicSmoothness.png
+  artifactKey: Guid(696986fd7283a544f8e67421c9e16773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/LowPolyHand_MetallicSmoothness.png using Guid(696986fd7283a544f8e67421c9e16773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45008a7e5b0e2c09d06201a55e793ec') in 0.129811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HandyHandPack/Textures/RobotHand_Blue_Albedo.png
+  artifactKey: Guid(01655e3324067fe46ba1656ff5b2a389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/RobotHand_Blue_Albedo.png using Guid(01655e3324067fe46ba1656ff5b2a389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a60200e988617f1d1ee020b73a394b') in 0.098866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/HandyHandPack/Textures/RobotHand_Black_Albedo.png
+  artifactKey: Guid(4ae1d1ef3904aba48af6cba635fd51ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/RobotHand_Black_Albedo.png using Guid(4ae1d1ef3904aba48af6cba635fd51ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e05777c9210504963b56eabbaef75b') in 0.126615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HandyHandPack/Textures/CombatGlove_Brown_Albedo.png
+  artifactKey: Guid(009bcdf04c08fd24e995b4a7121b2ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/CombatGlove_Brown_Albedo.png using Guid(009bcdf04c08fd24e995b4a7121b2ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8504a9e9e964f964e480107ae965f2d') in 0.082613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/HandyHandPack/Textures/GardenGlove_Normal.png
+  artifactKey: Guid(3c5f477bb9ddacd4cad75102f463848a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/GardenGlove_Normal.png using Guid(3c5f477bb9ddacd4cad75102f463848a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df6d905e19388f0177051f4764d1cda') in 0.196271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HandyHandPack/Textures/CombatGlove_MetallicSmoothness.png
+  artifactKey: Guid(7458ccc6919698143a2b92ff6992009a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/CombatGlove_MetallicSmoothness.png using Guid(7458ccc6919698143a2b92ff6992009a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15e2536f4b2f95f0242d03537c26875c') in 0.253148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/HandyHandPack/Textures/LowPolyHand_Normal.png
+  artifactKey: Guid(4487785857a4c014a936fc29add646bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/LowPolyHand_Normal.png using Guid(4487785857a4c014a936fc29add646bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9f16c2e6b249842dbc6a1edce438ba1') in 0.084991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HandyHandPack/Textures/BoxingGlove_Normal.png
+  artifactKey: Guid(eb846d9d68de27946b403bb962bc5ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/BoxingGlove_Normal.png using Guid(eb846d9d68de27946b403bb962bc5ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b62c8b45f956b5629510c49e895f1f') in 0.200402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HandyHandPack/Textures/WinterGloves_Albedo.png
+  artifactKey: Guid(3b3bb28434d80a9489809fc87dba3093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/WinterGloves_Albedo.png using Guid(3b3bb28434d80a9489809fc87dba3093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457e22d7de95396af39cfa0f2c3ce03c') in 0.104190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/HandyHandPack/Textures/CombatGlove_Occlusion.png
+  artifactKey: Guid(481e6b03c15b09640847e5f91a96aa08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/CombatGlove_Occlusion.png using Guid(481e6b03c15b09640847e5f91a96aa08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0049682ce88fbdd4be4c00400ef74cef') in 0.111898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/HandyHandPack/Textures/BoxingGlove_Blue_Albedo.png
+  artifactKey: Guid(5fddda4ae23242a4ba7a0b91f4f37d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/BoxingGlove_Blue_Albedo.png using Guid(5fddda4ae23242a4ba7a0b91f4f37d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95854ef909de97ba2c4d899ebc464b7f') in 0.289006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/HandyHandPack/Textures/LeatherGlove_Normal.png
+  artifactKey: Guid(3d293e8392ede7d45b622e02fdd5e8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/LeatherGlove_Normal.png using Guid(3d293e8392ede7d45b622e02fdd5e8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d3276c7e8a135851c43cd32d98b23b5') in 0.223990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/HandyHandPack/Textures/WinterGloves_Green_Albedo.png
+  artifactKey: Guid(469e76f9c5e892044bfed59b779f183f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/WinterGloves_Green_Albedo.png using Guid(469e76f9c5e892044bfed59b779f183f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f679519b2dc9317d184242794ffb9e07') in 0.211790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/HandyHandPack/Textures/LeatherGlove_Black_Albedo.png
+  artifactKey: Guid(221a76c80939b424fb067b19d67acd38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HandyHandPack/Textures/LeatherGlove_Black_Albedo.png using Guid(221a76c80939b424fb067b19d67acd38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38790ace5ac302fa042d642b73c36bbe') in 0.175718 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

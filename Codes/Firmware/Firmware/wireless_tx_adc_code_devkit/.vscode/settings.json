@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ble_nus_c.h": "c",
+        "stdio.h": "c",
+        "nrf_log_ctrl.h": "c",
+        "app_util_platform.h": "c"
+    }
+}
