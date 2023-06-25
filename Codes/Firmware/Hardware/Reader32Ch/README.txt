@@ -1,0 +1,6 @@
+- Board thickness 1.6mm
+- 4 layers, 1 oz. copper for outer layers
+- Silk colour white
+- Mask coulour whichever allows at least 0.1mm solder mask dam
+- No testing required
+- No panellization required

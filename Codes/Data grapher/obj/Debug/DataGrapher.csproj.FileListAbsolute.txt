@@ -1,0 +1,59 @@
+C:\Users\walker\Documents\Texavie\Git\C-Script\DataGrapher2020\DataGrapher\bin\Debug\DataGrapher.exe.config
+C:\Users\walker\Documents\Texavie\Git\C-Script\DataGrapher2020\DataGrapher\bin\Debug\DataGrapher.exe
+C:\Users\walker\Documents\Texavie\Git\C-Script\DataGrapher2020\DataGrapher\bin\Debug\DataGrapher.pdb
+C:\Users\walker\Documents\Texavie\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.csprojAssemblyReference.cache
+C:\Users\walker\Documents\Texavie\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.Properties.Resources.resources
+C:\Users\walker\Documents\Texavie\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.csproj.GenerateResource.cache
+C:\Users\walker\Documents\Texavie\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.csproj.CoreCompileInputs.cache
+C:\Users\walker\Documents\Texavie\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.exe
+C:\Users\walker\Documents\Texavie\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.pdb
+C:\Users\walker\Documents\Texavie\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.SleeveResistance.resources
+G:\Servati Company\Github\Git\C-Script\DataGrapher2020\DataGrapher\bin\Debug\DataGrapher.exe.config
+G:\Servati Company\Github\Git\C-Script\DataGrapher2020\DataGrapher\bin\Debug\DataGrapher.exe
+G:\Servati Company\Github\Git\C-Script\DataGrapher2020\DataGrapher\bin\Debug\DataGrapher.pdb
+G:\Servati Company\Github\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.csprojAssemblyReference.cache
+G:\Servati Company\Github\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.SleeveResistance.resources
+G:\Servati Company\Github\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.Properties.Resources.resources
+G:\Servati Company\Github\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.csproj.GenerateResource.cache
+G:\Servati Company\Github\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.exe
+G:\Servati Company\Github\Git\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.pdb
+D:\Github\C-Script\DataGrapher2020\DataGrapher\bin\Debug\DataGrapher.exe.config
+D:\Github\C-Script\DataGrapher2020\DataGrapher\bin\Debug\DataGrapher.exe
+D:\Github\C-Script\DataGrapher2020\DataGrapher\bin\Debug\DataGrapher.pdb
+D:\Github\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.csprojAssemblyReference.cache
+D:\Github\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.SleeveResistance.resources
+D:\Github\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.Properties.Resources.resources
+D:\Github\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.csproj.GenerateResource.cache
+D:\Github\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.csproj.CoreCompileInputs.cache
+D:\Github\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.exe
+D:\Github\C-Script\DataGrapher2020\DataGrapher\obj\Debug\DataGrapher.pdb
+G:\My Drive\R&D\Generation 4 Sleeves\June 26, 2020 - Data Collection\DataGrapher\DataGrapher\bin\Debug\DataGrapher.exe.config
+G:\My Drive\R&D\Generation 4 Sleeves\June 26, 2020 - Data Collection\DataGrapher\DataGrapher\bin\Debug\DataGrapher.exe
+G:\My Drive\R&D\Generation 4 Sleeves\June 26, 2020 - Data Collection\DataGrapher\DataGrapher\bin\Debug\DataGrapher.pdb
+G:\My Drive\R&D\Generation 4 Sleeves\June 26, 2020 - Data Collection\DataGrapher\DataGrapher\obj\Debug\DataGrapher.csprojAssemblyReference.cache
+G:\My Drive\R&D\Generation 4 Sleeves\June 26, 2020 - Data Collection\DataGrapher\DataGrapher\obj\Debug\DataGrapher.SleeveResistance.resources
+G:\My Drive\R&D\Generation 4 Sleeves\June 26, 2020 - Data Collection\DataGrapher\DataGrapher\obj\Debug\DataGrapher.Properties.Resources.resources
+G:\My Drive\R&D\Generation 4 Sleeves\June 26, 2020 - Data Collection\DataGrapher\DataGrapher\obj\Debug\DataGrapher.csproj.GenerateResource.cache
+G:\My Drive\R&D\Generation 4 Sleeves\June 26, 2020 - Data Collection\DataGrapher\DataGrapher\obj\Debug\DataGrapher.csproj.CoreCompileInputs.cache
+G:\My Drive\R&D\Generation 4 Sleeves\June 26, 2020 - Data Collection\DataGrapher\DataGrapher\obj\Debug\DataGrapher.exe
+G:\My Drive\R&D\Generation 4 Sleeves\June 26, 2020 - Data Collection\DataGrapher\DataGrapher\obj\Debug\DataGrapher.pdb
+C:\Users\Arvin\Documents\DataGrapher\obj\Debug\DataGrapher.csprojAssemblyReference.cache
+C:\Users\Arvin\Documents\DataGrapher\obj\Debug\DataGrapher.SleeveResistance.resources
+C:\Users\Arvin\Documents\DataGrapher\obj\Debug\DataGrapher.Properties.Resources.resources
+C:\Users\Arvin\Documents\DataGrapher\obj\Debug\DataGrapher.csproj.GenerateResource.cache
+C:\Users\Arvin\Documents\DataGrapher\obj\Debug\DataGrapher.csproj.CoreCompileInputs.cache
+C:\Users\Arvin\Documents\DataGrapher\obj\Debug\DataGrapher.exe
+C:\Users\Arvin\Documents\DataGrapher\obj\Debug\DataGrapher.pdb
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\DataGrapher.exe.config
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\DataGrapher.exe
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\DataGrapher.pdb
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\CsvHelper.dll
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\SimpleTCP.dll
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\CsvHelper.xml
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Arvin\Documents\DataGrapher\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Arvin\Documents\DataGrapher\obj\Debug\DataGrapher.csproj.CopyComplete
