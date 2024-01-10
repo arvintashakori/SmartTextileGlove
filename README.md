@@ -1,7 +1,6 @@
 # SmartTextileGlove: Capturing Complex Hand Movements and Object Interactions Using Machine Learning Powered Stretchable Smart Textile Gloves
 
 Published in Nature Machine Intelligence, 2024 [[Link]](https://www.nature.com/articles/s42256-023-00780-9)
-![](smartglove.png)
 
 ## System requirements
 - Graphical user interface: Microsoft Visual Studio C# 2017
