@@ -2,7 +2,7 @@
 
 Published in Nature Machine Intelligence, 2024 [[Link]](https://www.nature.com/articles/s42256-023-00780-9)
 
-![](sys_model.png)
+![](sys_model.pdf)
 
 ## System requirements
 - Graphical user interface: Microsoft Visual Studio C# 2017
