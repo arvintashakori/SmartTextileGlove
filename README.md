@@ -1,5 +1,9 @@
 # SmartTextileGlove: Capturing Complex Hand Movements and Object Interactions Using Machine Learning Powered Stretchable Smart Textile Gloves
 
+Published in Nature Machine Intelligence, 2024 [[Link]](https://www.nature.com/articles/s42256-023-00780-9)
+
+![](sys_model.png)
+
 ## System requirements
 - Graphical user interface: Microsoft Visual Studio C# 2017
 - Device firmware: Segger 5.34
@@ -15,8 +19,8 @@
   - Firmware codes developed using C (Firmware/)
   - Data downloader software developed using python (Data receiver/)
 - Dataset/
-  - Project Page: https://feel.ece.ubc.ca/SmartTextileGlove/
-  - Google Drive Repository: https://drive.google.com/drive/folders/1HWjG_6Y2G7XNEeI19Aids0g-dcufncGJ?usp=share_link
+  - Project Page: https://arvintashakori.github.io/SmartTextileGloveProject/
+  - Google Drive Repository: https://feel.ece.ubc.ca/SmartTextileGlove/
     - Dataset collected from five subjects for different applications (Raw data/)
     - Power consumption data for costume-made data acquisition board (PCB Power consumption/)
     - Source data from sensor characteristis (Sensor characteristics/)
