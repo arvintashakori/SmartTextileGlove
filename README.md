@@ -17,8 +17,7 @@ Published in Nature Machine Intelligence, 2024 [[Link]](https://www.nature.com/a
   - Firmware codes developed using C (Firmware/)
   - Data downloader software developed using python (Data receiver/)
 - Dataset/
-  - Project Page: https://arvintashakori.github.io/SmartTextileGloveProject/
-  - Dataset Repository: https://feel.ece.ubc.ca/SmartTextileGlove/
+  - Project page: https://feel.ece.ubc.ca/SmartTextileGlove/
     - Dataset collected from five subjects for different applications (Raw data/)
     - Power consumption data for costume-made data acquisition board (PCB Power consumption/)
     - Source data from sensor characteristis (Sensor characteristics/)
